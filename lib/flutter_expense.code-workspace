@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "flutter_expense",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../../../../Users/USER/Documents/GitHub/login_ui/images"
+		},
+		{
+			"name": "images",
+			"path": "../../../../../Users/USER/Documents/GitHub/Finance-App/images"
+		},
+		{
+			"name": "fonts",
+			"path": "../../../../../Users/USER/Documents/GitHub/Finance-App/fonts"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

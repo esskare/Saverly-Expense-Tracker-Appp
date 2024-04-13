@@ -1,0 +1,47 @@
+name: management
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.1
+  shared_preferences: ^2.0.13
+
+  syncfusion_flutter_charts: ^25.1.38
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.18.0
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  flutter_svg:
+  velocity_x: ^4.1.1
+  flutter_credit_card: ^4.0.1
+  google_fonts: ^6.2.1
+  fluttertoast: ^8.2.4
+  credit_card_validator: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  hive_generator: ^2.0.1
+  build_runner: ^2.2.0
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/
+
